@@ -1,10 +1,10 @@
 {
-  "name": "keeper-app-part-1-starting",
+  "name": "keeper-app",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://iamSK77.github.io/react-contact-app",
+  "homepage": "https://iamSK77.github.io/Keeper-react",
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
